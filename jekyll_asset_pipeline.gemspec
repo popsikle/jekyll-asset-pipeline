@@ -16,7 +16,7 @@ Gem::Specification.new do |s|
 
   # Runtime dependencies
   s.add_runtime_dependency 'jekyll', '>= 0.12'
-  s.add_runtime_dependency 'liquid', '~> 2.4'
+  s.add_runtime_dependency 'liquid', '>= 2.4'
 
   # Development dependencies
   s.add_development_dependency 'rake', '~> 10.0'
